@@ -1,0 +1,16 @@
+*.log
+*.plg
+*.bak
+*.dep
+*.uvgui.*
+*.o
+*.d
+*.crf
+*.tra
+*.axf
+*.hex
+*.lnp
+*.sct
+*.__i
+*.htm
+

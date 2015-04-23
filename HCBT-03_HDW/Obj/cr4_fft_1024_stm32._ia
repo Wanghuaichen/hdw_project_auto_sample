@@ -1,0 +1,1 @@
+--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1" -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F10x --list ".\Lst\cr4_fft_1024_stm32.lst" --xref -o ".\Obj\cr4_fft_1024_stm32.o" --depend ".\Obj\cr4_fft_1024_stm32.d" "DSP_Lib\src\cr4_fft_1024_stm32.s"
